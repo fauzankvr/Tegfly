@@ -118,10 +118,11 @@ header .rigth button{
         text-align: center;
 }
 .section1 .grid {
-    width: 100%;
+    width: 90%;
     display: grid;
     grid-template-columns:1fr 1fr;
     grid-column-gap: 20px;
+    margin: auto;
     
 
 }
@@ -202,6 +203,8 @@ header .rigth button{
 }
 .section2 .grid{
     display: grid;
+    width: 90%;
+    margin: auto;
     grid-template-columns:1fr 1fr 1fr ;
     grid-column-gap: 30px;
 }
