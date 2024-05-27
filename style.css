@@ -13,6 +13,11 @@ body{
     color: rgb(255 255 255);
     position: relative;
 }
+.stiky{
+    position:fixed;
+    bottom: 0;
+    right: 0;
+    width: 80px;
 #home{
     background-image: url(/tegfly/image/herobg.png);
     min-height: 100vh;
