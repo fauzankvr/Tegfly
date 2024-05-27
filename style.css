@@ -10,14 +10,14 @@
 body{
     background-color: #060816;
     font-family: "Poppins", sans-serif;
-    color: rgb(255 255 255);
-    position: relative;
+    color: rgb(255 255 255);   
 }
 .stiky{
     position:fixed;
     bottom: 0;
     right: 0;
     width: 80px;
+}
 #home{
     background-image: url(/tegfly/image/herobg.png);
     min-height: 100vh;
